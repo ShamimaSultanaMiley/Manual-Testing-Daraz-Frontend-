@@ -15,35 +15,35 @@ This repository is dedicated to the manual testing of the Daraz Frontend applica
 
 ## Test Plan
 
-The test plan outlines the overall testing strategy for the Daraz frontend application. It includes information about the scope of testing, testing objectives, test environments, and schedules. You can find the detailed test plan in the [Test Plan for Daraz.pdf](Test Plan for Daraz.pdf) file.
+The test plan outlines the overall testing strategy for the Daraz frontend application. It includes information about the scope of testing, testing objectives, test environments, and schedules. You can find the detailed test plan in the Test Plan for Daraz.pdf
 
 ## Mind Map
 
-The mind map visually represents the testing scope, objectives, and areas of focus. It serves as a high-level guide for testers to understand the testing landscape. You can view the mind map in the [Mind_Map.png](Mind_Map.png) file.
+The mind map visually represents the testing scope, objectives, and areas of focus. It serves as a high-level guide for testers to understand the testing landscape. You can view the mind map in the Daraz Mindmap.png file.
 
 ## Test Scenarios
 
-The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the [Test_Scenarios.md](Test_Scenarios.md) file.
+The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the Test scenario.xlsx file.
 
 ## Test Cases
 
-Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the [Test_Cases.md](Test_Cases.md) file.
+Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
 
 ## Report
 
-The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the [Test_Report.md](Test_Report.md) file.
+The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the Full Report Daraz.xlsx file.
 
 ## Bug Report
 
-If any issues or defects are identified during testing, they should be reported using the bug report template provided in the [Bug_Report_Template.md](Bug_Report_Template.md) file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
+If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
 
 ## Test Metrics
 
-To gauge the testing progress and quality, various test metrics are calculated and presented in the [Test_Metrics.md](Test_Metrics.md) file. These metrics include pass/fail percentages, defect density, and more.
+To gauge the testing progress and quality, various test metrics are calculated and presented in the Test Metrics.xlsx file. These metrics include pass/fail percentages, defect density, and more.
 
 ## Recommendations
 
-The recommendations section offers insights and suggestions for improving the quality of the Daraz Frontend application. This can be found in the [Recommendations.md](Recommendations.md) file.
+The recommendations section offers insights and suggestions for improving the quality of the Daraz Frontend application. This can be found in the Recommendation.xlsx file.
 
 ## How to Contribute
 
@@ -67,6 +67,6 @@ git clone <repository_url>
 
 7. **Review and Merge:** The changes will be reviewed, and once approved, they will be merged into the main branch.
 
-Thank you for your contributions to the manual testing project for Daraz Frontend. Your efforts are crucial in ensuring the quality and reliability of the application. If you have any questions or need assistance, please feel free to reach out to the project administrator.
+Thank you for your contributions to the manual testing project for Daraz Frontend. Your efforts are crucial in ensuring the quality and reliability of the application. 
 
 Happy Testing!
