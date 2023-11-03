@@ -19,6 +19,8 @@ The test plan outlines the overall testing strategy for the Daraz frontend appli
 
 ![Table of Content](Image/testplanindex.JPG)
 
+![Test Plan](Image/testplan.JPG)
+
 ## Mind Map
 
 The mind map visually represents the testing scope, objectives, and areas of focus. It serves as a high-level guide for testers to understand the testing landscape. You can view the mind map in the Daraz Mindmap.png file.
