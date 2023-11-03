@@ -15,7 +15,7 @@ This repository is dedicated to the manual testing of the Daraz Frontend applica
 
 ## Test Plan
 
-The test plan outlines the overall testing strategy for the Daraz frontend application. It includes information about the scope of testing, testing objectives, test environments, and schedules.
+The test plan outlines the overall testing strategy for the Daraz front-end application. It includes information about the scope of testing, testing objectives, test environments, and schedules.
 
 ![Table of Content](Image/testplanindex.JPG)
 
@@ -23,31 +23,45 @@ The test plan outlines the overall testing strategy for the Daraz frontend appli
 
 ## Mind Map
 
-The mind map visually represents the testing scope, objectives, and areas of focus. It serves as a high-level guide for testers to understand the testing landscape. You can view the mind map in the Daraz Mindmap.png file.
+The mind map visually represents the testing scope, objectives, and focus areas. It serves as a high-level guide for testers to understand the testing landscape. You can view the mind map in the Daraz Mindmap.png file.
+
+![Mind Map](Image/mindmap.png)
 
 ## Test Scenarios
 
 The test scenarios provide a list of high-level scenarios to be tested, helping testers understand what to focus on during testing. These scenarios are listed in the Test scenario.xlsx file.
 
+![Test Scenarios](Image/testscenario.JPG)
+
 ## Test Cases
 
 Detailed test cases are documented to ensure systematic testing of the application. Test cases cover various functionalities, features, and edge cases. You can find these test cases in the Test Cases execution result.xlsx file.
+
+![Test Cases](Image/testcases.JPG)
 
 ## Report
 
 The test report summarizes the testing activities, including the number of test cases executed, passed, and failed. It offers an overview of the overall test results. The test report can be found in the Full Report Daraz.xlsx file.
 
+![Report](Image/testcasereport.JPG)
+
 ## Bug Report
 
 If any issues or defects are identified during testing, they should be reported using the bug report template provided in the Bug Report.xlsx file. Ensure that bug reports are detailed and provide steps to reproduce the issues.
+
+![Bug Report](Image/bugreport.JPG)
 
 ## Test Metrics
 
 To gauge the testing progress and quality, various test metrics are calculated and presented in the Test Metrics.xlsx file. These metrics include pass/fail percentages, defect density, and more.
 
+![Test Matrices](Image/testmatrices.JPG)
+
 ## Recommendations
 
-The recommendations section offers insights and suggestions for improving the quality of the Daraz Frontend application. This can be found in the Recommendation.xlsx file.
+The recommendations section offers insights and suggestions for improving the quality of the Daraz Frontend application.
+
+![Recomendation](Image/recomendation.JPG)
 
 ## How to Contribute
 
