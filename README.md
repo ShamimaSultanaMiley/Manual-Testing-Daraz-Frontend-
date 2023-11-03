@@ -63,28 +63,16 @@ The recommendations section offers insights and suggestions for improving the qu
 
 ![Recomendation](Image/recomendation.JPG)
 
-## How to Contribute
 
-If you are a tester or contributor, please follow these guidelines:
+## Downloading the Repository
 
-1. **Clone the Repository:** Start by cloning this repository to your local machine using Git.
+**Download the Repository**:
+   - Create a folder on your local machine where you want to store this repository.
+   - Open your terminal or command prompt.
+   - Use the following command to clone the repository to your chosen folder:
 
-```bash
-git clone <repository_url>
-```
+     ```bash
+     git clone https://github.com/ShamimaSultanaMiley/Manual-Testing-Daraz-Frontend-.git
+     ```
 
-2. **Perform Testing:** Follow the test plan and execute the test cases.
 
-3. **Report Bugs:** If you encounter any issues or defects, use the bug report template to report them.
-
-4. **Documentation:** Keep the documentation updated if you create new test cases or find issues.
-
-5. **Push Changes:** Push your changes to this repository, preferably in your own branch.
-
-6. **Create Pull Request:** Create a pull request to merge your changes into the main branch. 
-
-7. **Review and Merge:** The changes will be reviewed, and once approved, they will be merged into the main branch.
-
-Thank you for your contributions to the manual testing project for Daraz Frontend. Your efforts are crucial in ensuring the quality and reliability of the application. 
-
-Happy Testing!
