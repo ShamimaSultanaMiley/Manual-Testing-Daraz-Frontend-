@@ -15,7 +15,8 @@ This repository is dedicated to the manual testing of the Daraz Frontend applica
 
 ## Test Plan
 
-The test plan outlines the overall testing strategy for the Daraz frontend application. It includes information about the scope of testing, testing objectives, test environments, and schedules. You can find the detailed test plan in the Test Plan for Daraz.pdf
+The test plan outlines the overall testing strategy for the Daraz frontend application. It includes information about the scope of testing, testing objectives, test environments, and schedules.
+![Table of Content](Image/testplanindex.JPG)
 
 ## Mind Map
 
